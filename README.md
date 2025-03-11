@@ -34,7 +34,7 @@ git clone https://github.com/wsp99x/exeercicios.dev.web.py.git
 
 2. Acesse a pasta do projeto:
 
-cd exercicios.dev.web.py
+   cd exercicios.dev.web.py
 
 3. Execute o script Python:
    python main.py
