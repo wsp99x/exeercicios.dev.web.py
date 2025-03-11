@@ -30,7 +30,7 @@ Este repositório contém quatro exercícios práticos de Python abordando manip
 
 ## Como Executar
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/wsp99x/exeercicios.dev.web.py.git
 
 2. Acesse a pasta do projeto:
 
