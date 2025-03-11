@@ -49,5 +49,3 @@ Wellington Siqueira Porto
 
 ---
 
-Caso tenha sugestões ou melhorias, fique à vontade para contribuir! 🚀
-
